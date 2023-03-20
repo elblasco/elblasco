@@ -8,7 +8,7 @@
 ## Bio
   
 I'm currently enrolled in a CS bachelor degree in [UniTN](https://www.unitn.it/en).  
-Rightn now i'm waiting to start my first internship.   
+Rightn now I'm doing my first internship.   
 You can find my CV [here](https://github.com/ElBlasco69/ElBlasco69/blob/main/AlessioBlascovichCV.pdf).  
 
 ## OS
