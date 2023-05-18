@@ -7,7 +7,6 @@
 ## Bio
   
 I'm currently enrolled in a CS bachelor degree in [UniTN](https://www.unitn.it/en).  
-You can find my CV [here](https://github.com/elblasco/elblasco/blob/main/AlessioBlascovichCV.pdf).  
 
 ## OS
 
