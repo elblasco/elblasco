@@ -6,7 +6,7 @@
 
 ## Bio
   
-I'm currently enrolled in a CS bachelor degree in [UniTN](https://www.unitn.it/en).  
+I'm currently enrolled in a CS bachelor degree in [UniTN](https://www.unitn.it/en).
 
 ## OS
 
@@ -33,7 +33,6 @@ I'm currently enrolled in a CS bachelor degree in [UniTN](https://www.unitn.it/e
 ## My gears
 
 ![Matebook D 14](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![Thinkpad L450](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 
 ## Other passions
 
