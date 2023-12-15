@@ -1,3 +1,2 @@
-# Contacts
-[<img src="./icons/linkedin.svg">](https://www.linkedin.com/in/alessio-blascovich/)
-[<img src="./icons/telegram.svg">](https://t.me/alessio_blascovich)
+My reading shelf:  
+[<img src="https://s.gr-assets.com/images/badge/badge1.jpg">](https://www.goodreads.com/review/list/171175794?shelf=currently-reading)
