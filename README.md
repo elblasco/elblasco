@@ -5,5 +5,5 @@ My reading lists:
 <details>
 <summary>Some details about my activities on GitHub</summary>
 <br>
-![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elblasco&layout=pie&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elblasco&layout=pie&theme=highcontrast" alt="My stats">
 </details>
