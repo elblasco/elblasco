@@ -6,5 +6,5 @@ My reading/watching lists, none 100% accurate:
 <details>
 <summary>Some details about my activities on GitHub</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elblasco&layout=pie&theme=highcontrast" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elblasco&layout=pie&theme=highcontrast&hide=tex" alt="My stats">
 </details>
